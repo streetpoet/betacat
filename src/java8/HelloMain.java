@@ -10,7 +10,7 @@ public class HelloMain {
 		System.out.println("1");
 	}
 
-	public void b2(){
-		//
+	public void b3(){
+		System.out.println("b3");
 	}
 }
