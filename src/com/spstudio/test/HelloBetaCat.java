@@ -6,6 +6,8 @@ public class HelloBetaCat {
 		System.out.println("b4");
 	}
 	
-	
+	void b4(){
+		
+	}
 
 }
