@@ -13,4 +13,8 @@ public class HelloMain {
 	public void b2(){
 		//
 	}
+	
+	public void master(){
+		
+	}
 }
