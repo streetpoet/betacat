@@ -3,7 +3,7 @@ package com.spstudio.test;
 public class HelloBetaCat {
 
 	public static void main(String[] args) {
-		System.out.println("b4");
+		System.out.println("b5");
 	}
 	
 	void b4(){
