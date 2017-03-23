@@ -10,4 +10,5 @@ public class HelloMain {
 		System.out.println("1");
 	}
 
+	public void b2(){}
 }
