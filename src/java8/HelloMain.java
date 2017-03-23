@@ -3,9 +3,7 @@ package java8;
 public class HelloMain {
 
 	public static void main(String[] args) {
-		System.out.println("Hello, the world");
-		System.out.println("master2");
-		System.out.println("b1");
+		System.out.println("1");
 	}
 
 }
